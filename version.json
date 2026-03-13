@@ -1,7 +1,7 @@
 {
-  "version": "1.0.3",
-  "url": "https://github.com/Dexintraidor/SunTropezUpdates/releases/download/v1.0.3/SunTropez_Setup_1.0.3.exe",
-  "notes": "Sun Tropez Update:\n- Hausmeister Modul\n- Update Funktion\n- Neon UI Verbesserungen\n- COM Diagnose\n- Stabilitätsfixes",
+  "version": "1.0.4",
+  "url": "https://github.com/Dexintraidor/SunTropezUpdates/releases/download/v1.0.4/SunTropez_Setup_1.0.4.exe",
+  "notes": "Sun Tropez Update:\n- Hausmeister Studio Dashboard\n- Tagesreport verbessert\n- KPI Layout optimiert\n- UI Fixes",
   "mandatory": false,
   "sha256": ""
 }
