@@ -1,7 +1,6 @@
 {
-  "version": "1.0.4",
-  "url": "https://github.com/Dexintraidor/SunTropezUpdates/releases/download/v1.0.4/SunTropez_Setup_1.0.4.exe",
-  "notes": "Sun Tropez Update:\n- Hausmeister Studio Dashboard\n- Tagesreport verbessert\n- KPI Layout optimiert\n- UI Fixes",
-  "mandatory": false,
-  "sha256": ""
+  "version": "1.0.5",
+  "url": "https://github.com/Dexintraidor/SunTropezUpdates/releases/download/v1.0.5/SunTropez_Setup_1.0.5.exe",
+  "notes": "SaleWindow verbessert, Quick-Buttons korrigiert, Preisanzeige optimiert",
+  "mandatory": false
 }
