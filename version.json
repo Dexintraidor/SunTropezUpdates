@@ -1,12 +1,7 @@
 {
   "version": "1.0.6",
-  "url": "https://github.com/Dexintraidor/SunTropezUpdates/releases/download/v1.0.5/SunTropez_Setup_1.0.5.exe",
-  "notes": "Sun Tropez 1.0.6
-
-- RGB-Laufrichtung für Bankrahmen hinzugefügt
-- Verkaufsfenster weiter optimiert
-- Quick-Buttons für 27,5 / 30 Minuten korrigiert
-- Preisanzeige verbessert
-- Hausmeister Dashboard und Tagesreport weiter stabilisiert",
-  "mandatory": false
+  "url": "https://github.com/Dexintraidor/SunTropezUpdates/releases/download/v1.0.6/SunTropez_Setup_1.0.6.exe",
+  "notes": "Sun Tropez Update:\n- RGB-Laufrichtung für Bankrahmen hinzugefügt\n- Verkaufsfenster verbessert\n- Quick-Buttons 27,5 / 30 Minuten korrigiert\n- Preisanzeige optimiert\n- Stabilitätsverbesserungen im System",
+  "mandatory": false,
+  "sha256": ""
 }
